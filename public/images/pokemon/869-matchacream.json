@@ -1,7 +1,7 @@
 {
 	"textures": [
 		{
-			"image": "869-rainbow-swirl.png",
+			"image": "869-matchacream.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 55,
@@ -36,6 +36,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:1a4d1bc0283fdcf9704523ff9c304937:8122f937b67cb25a772bdb63688456b7:5efb62c1b2c8ccb825172755b6a5956b$"
+		"smartupdate": "$TexturePacker:SmartUpdate:713d1a6f0fbac3236c31960e722f4425:29a82de035ed4f33426b4bb6943c4036:3607dee150b69bb8409f07bf4b436c27$"
 	}
 }

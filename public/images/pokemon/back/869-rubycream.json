@@ -1,7 +1,7 @@
 {
 	"textures": [
 		{
-			"image": "869-ruby-swirl.png",
+			"image": "869-rubycream.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 55,
@@ -36,6 +36,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:74597d1dd20480b7437d63ffff36fdc6:712fef9349381ad34ea1cf553353507e:ea7e9be6cfcdb9bb39d201b2ab117eae$"
+		"smartupdate": "$TexturePacker:SmartUpdate:5e1a2e975f94fce84da322e45069c702:68247ca18f9dd3e2bc269dc772ad069d:36b2afa6f1e593bd875572a5eaa54a8f$"
 	}
 }

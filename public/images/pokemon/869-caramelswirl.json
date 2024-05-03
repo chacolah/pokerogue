@@ -1,32 +1,32 @@
 {
 	"textures": [
 		{
-			"image": "869-caramel-swirl.png",
+			"image": "869-caramelswirl.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 55,
 				"h": 55
 			},
-			"scale": 1,
+			"scale": 0.5,
 			"frames": [
 				{
 					"filename": "0001.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 36,
-						"h": 55
+						"w": 96,
+						"h": 96
 					},
 					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 36,
+						"x": 28,
+						"y": 20,
+						"w": 39,
 						"h": 55
 					},
 					"frame": {
 						"x": 0,
 						"y": 0,
-						"w": 36,
+						"w": 39,
 						"h": 55
 					}
 				}
@@ -36,6 +36,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:9282a977590712360ae72153b51f6d19:8a8b13830aca0ac27048eddc715c72bd:18cea997ef38e1531596f96f8db4f25e$"
+		"smartupdate": "$TexturePacker:SmartUpdate:e565b3b962f894b4de5291159fced6f2:dec57ba4f1836b6834da2da4c98c442a:a9efacddd6da069c39eca521bf0c5c93$"
 	}
 }

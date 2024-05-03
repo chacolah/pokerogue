@@ -1,25 +1,25 @@
 {
 	"textures": [
 		{
-			"image": "869-rainbow-swirl.png",
+			"image": "869-caramelswirl.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 55,
 				"h": 55
 			},
-			"scale": 1,
+			"scale": 0.333,
 			"frames": [
 				{
 					"filename": "0001.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 36,
-						"h": 55
+						"w": 96,
+						"h": 96
 					},
 					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
+						"x": 30,
+						"y": 20,
 						"w": 36,
 						"h": 55
 					},
@@ -36,6 +36,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:9282a977590712360ae72153b51f6d19:8a8b13830aca0ac27048eddc715c72bd:18cea997ef38e1531596f96f8db4f25e$"
+		"smartupdate": "$TexturePacker:SmartUpdate:2e4ddfde96ab312ce7d94315e5d95a9c:7f74b65259ec1e4bcb1f62f02643d8a7:a9efacddd6da069c39eca521bf0c5c93$"
 	}
 }

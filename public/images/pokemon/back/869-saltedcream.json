@@ -1,25 +1,25 @@
 {
 	"textures": [
 		{
-			"image": "869-lemon-cream.png",
+			"image": "869-saltedcream.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 55,
 				"h": 55
 			},
-			"scale": 1,
+			"scale": 0.333,
 			"frames": [
 				{
 					"filename": "0001.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 36,
-						"h": 55
+						"w": 96,
+						"h": 96
 					},
 					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
+						"x": 30,
+						"y": 20,
 						"w": 36,
 						"h": 55
 					},
@@ -36,6 +36,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:9282a977590712360ae72153b51f6d19:8a8b13830aca0ac27048eddc715c72bd:18cea997ef38e1531596f96f8db4f25e$"
+		"smartupdate": "$TexturePacker:SmartUpdate:e2389a610f198709cf6d31d9265f1dec:150abb49e4602321790850b291b4a7fb:6e5c7cbfd1699b5560a39643a258e386$"
 	}
 }

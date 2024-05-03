@@ -1,32 +1,32 @@
 {
 	"textures": [
 		{
-			"image": "869-ruby-cream.png",
+			"image": "869-saltedcream.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 55,
 				"h": 55
 			},
-			"scale": 0.333,
+			"scale": 1,
 			"frames": [
 				{
 					"filename": "0001.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 96,
-						"h": 96
+						"w": 39,
+						"h": 55
 					},
 					"spriteSourceSize": {
-						"x": 30,
-						"y": 20,
-						"w": 36,
+						"x": 0,
+						"y": 0,
+						"w": 39,
 						"h": 55
 					},
 					"frame": {
 						"x": 0,
 						"y": 0,
-						"w": 36,
+						"w": 39,
 						"h": 55
 					}
 				}
@@ -36,6 +36,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:5e1a2e975f94fce84da322e45069c702:68247ca18f9dd3e2bc269dc772ad069d:36b2afa6f1e593bd875572a5eaa54a8f$"
+		"smartupdate": "$TexturePacker:SmartUpdate:05eade73b3ac133b2b6bfabb37d329b4:51719e2b4400ad80a2715f69594d3317:18cea997ef38e1531596f96f8db4f25e$"
 	}
 }

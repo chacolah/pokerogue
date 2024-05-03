@@ -1,25 +1,25 @@
 {
 	"textures": [
 		{
-			"image": "869-ruby-cream.png",
+			"image": "869-mintcream.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 55,
 				"h": 55
 			},
-			"scale": 1,
+			"scale": 0.5,
 			"frames": [
 				{
 					"filename": "0001.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 39,
-						"h": 55
+						"w": 96,
+						"h": 96
 					},
 					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
+						"x": 28,
+						"y": 20,
 						"w": 39,
 						"h": 55
 					},
@@ -36,6 +36,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:05eade73b3ac133b2b6bfabb37d329b4:51719e2b4400ad80a2715f69594d3317:18cea997ef38e1531596f96f8db4f25e$"
+		"smartupdate": "$TexturePacker:SmartUpdate:5deaa7830e8cbf001dce6c800a9e3da2:4c9255c2ad6d33fc00a90e447fb8a344:5a3d349b5aaedd43ed9c9acbc0c8652a$"
 	}
 }

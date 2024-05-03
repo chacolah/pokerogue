@@ -1,13 +1,13 @@
 {
 	"textures": [
 		{
-			"image": "869-caramel-swirl.png",
+			"image": "869-lemoncream.png",
 			"format": "RGBA8888",
 			"size": {
 				"w": 55,
 				"h": 55
 			},
-			"scale": 0.5,
+			"scale": 0.333,
 			"frames": [
 				{
 					"filename": "0001.png",
@@ -18,15 +18,15 @@
 						"h": 96
 					},
 					"spriteSourceSize": {
-						"x": 28,
+						"x": 30,
 						"y": 20,
-						"w": 39,
+						"w": 36,
 						"h": 55
 					},
 					"frame": {
 						"x": 0,
 						"y": 0,
-						"w": 39,
+						"w": 36,
 						"h": 55
 					}
 				}
@@ -36,6 +36,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:e565b3b962f894b4de5291159fced6f2:dec57ba4f1836b6834da2da4c98c442a:a9efacddd6da069c39eca521bf0c5c93$"
+		"smartupdate": "$TexturePacker:SmartUpdate:003640cdcb017af6d6fb7cce7ae5e1df:4dc2b3e45490e0868ac99d9aa7102c07:0284bb2fb44231f3756d5e41407b29dc$"
 	}
 }
