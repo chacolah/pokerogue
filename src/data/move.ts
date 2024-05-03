@@ -3611,8 +3611,6 @@ export class SuppressAbilitiesAttr extends MoveEffectAttr {
   }
 }
 
-
-
 export class TransformAttr extends MoveEffectAttr {
   apply(user: Pokemon, target: Pokemon, move: Move, args: any[]): Promise<boolean> {
     return new Promise(resolve => {
@@ -4807,8 +4805,8 @@ export function initMoves() {
       .partial(),
     new StatusMove(Moves.TAILWIND, Type.FLYING, -1, 15, -1, 0, 4)
       .windMove()
-      .target(MoveTarget.USER_SIDE)
-      .unimplemented(),
+      .attr(AddArenaTagAttr, ArenaTagType.TAILWIND, 4, true)
+      .target(MoveTarget.USER_SIDE),
     new StatusMove(Moves.ACUPRESSURE, Type.NORMAL, -1, 30, -1, 0, 4)
       .attr(StatChangeAttr, BattleStat.RAND, 2)
       .target(MoveTarget.USER_OR_NEAR_ALLY),
@@ -6357,8 +6355,7 @@ export function initMoves() {
       }), // TODO Add Instruct/Encore interaction
     new AttackMove(Moves.COMEUPPANCE, Type.DARK, MoveCategory.PHYSICAL, 1, 100, 10, -1, 0, 9)
       .attr(CounterDamageAttr, (move: Move) => (move.category === MoveCategory.PHYSICAL || move.category === MoveCategory.SPECIAL), 1.5)
-      .target(MoveTarget.ATTACKER)
-      .partial(),
+      .target(MoveTarget.ATTACKER),
     new AttackMove(Moves.AQUA_CUTTER, Type.WATER, MoveCategory.PHYSICAL, 70, 100, 20, -1, 0, 9)
       .attr(HighCritAttr)
       .slicingMove()
