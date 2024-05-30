@@ -361,10 +361,20 @@ export const PGMdialogue: DialogueTranslationEntries = {
   },
   "rocket_grunt": {
     "encounter": {
-      1: "Prepare for trouble!"
+      1: "Prepare for trouble!",
+      2: "Hey! Intruder alert!",
+      3: "You rotten little pest!",
+      4: "Steal POKEMON for profit!$Exploit POKEMON for profit!$All POKEMON exist for the glory of TEAM ROCKET!",
+      5: "Come taste the true terror of TEAM ROCKET!",
+      6: "POKEMON? They're nothing more than tools for making money!"
     },
     "victory": {
       1: "Team Rocket blasting off again!"
+      2: "You rotten Brat!",
+      3: "Just... Too strong...",
+      4: "You did OK today, brat, but wait 'til next time!",
+      5: "Dang... I failed...",
+      6: "I failed in my duties... I'll be docked pay for this..."
     },
   },
   "magma_grunt": {
